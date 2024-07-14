@@ -10,7 +10,7 @@
       "type": "armor",
       "sortid": 20,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "metadata": {
         "eh": true,
@@ -68,7 +68,7 @@
       "type": "armor",
       "sortid": 24,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "metadata": {
         "eh": false,
@@ -149,7 +149,7 @@
       "type": "armor",
       "sortid": 56,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "metadata": {
         "eh": true,
@@ -199,7 +199,7 @@
       "type": "procedure",
       "sortid": 59,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "metadata": {
         "dependencies": [
@@ -255,7 +255,7 @@
       "type": "keybind",
       "sortid": 64,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {}
     },
     {
@@ -263,7 +263,7 @@
       "type": "keybind",
       "sortid": 65,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {}
     },
     {
@@ -307,7 +307,7 @@
       "type": "armor",
       "sortid": 69,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "metadata": {
         "eh": true,
@@ -373,7 +373,7 @@
       "type": "procedure",
       "sortid": 95,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "metadata": {
         "dependencies": [
@@ -401,7 +401,7 @@
       "type": "armor",
       "sortid": 98,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "metadata": {
         "eh": true,
@@ -415,7 +415,7 @@
       "type": "procedure",
       "sortid": 99,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "metadata": {
         "dependencies": [
@@ -435,7 +435,7 @@
       "type": "keybind",
       "sortid": 100,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {}
     },
     {
@@ -479,7 +479,7 @@
       "type": "overlay",
       "sortid": 102,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {}
     },
     {
@@ -487,7 +487,7 @@
       "type": "keybind",
       "sortid": 104,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {}
     },
     {
@@ -555,7 +555,7 @@
       "type": "dimension",
       "sortid": 115,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "1": 1
       },
@@ -596,7 +596,7 @@
       "type": "armor",
       "sortid": 118,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "metadata": {
         "eh": true,
@@ -654,7 +654,7 @@
       "type": "procedure",
       "sortid": 146,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "metadata": {
         "dependencies": []
@@ -665,7 +665,7 @@
       "type": "procedure",
       "sortid": 151,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "metadata": {
         "dependencies": [
@@ -729,7 +729,7 @@
       "type": "procedure",
       "sortid": 155,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "metadata": {
         "dependencies": [
@@ -757,7 +757,7 @@
       "type": "gun",
       "sortid": 158,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 20
       }
@@ -795,7 +795,7 @@
       "type": "procedure",
       "sortid": 168,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "metadata": {
         "dependencies": [
@@ -815,7 +815,7 @@
       "type": "procedure",
       "sortid": 169,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "metadata": {
         "dependencies": []
@@ -826,7 +826,7 @@
       "type": "keybind",
       "sortid": 171,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {}
     },
     {
@@ -870,7 +870,7 @@
       "type": "procedure",
       "sortid": 177,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "metadata": {
         "dependencies": []
@@ -881,7 +881,7 @@
       "type": "achievement",
       "sortid": 179,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {}
     },
     {
@@ -925,7 +925,7 @@
       "type": "procedure",
       "sortid": 191,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "metadata": {
         "dependencies": []
@@ -936,7 +936,7 @@
       "type": "procedure",
       "sortid": 193,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "metadata": {
         "dependencies": []
@@ -967,7 +967,7 @@
       "type": "armor",
       "sortid": 204,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "metadata": {
         "eh": true,
@@ -1025,7 +1025,7 @@
       "type": "armor",
       "sortid": 210,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "metadata": {
         "eh": false,
@@ -1063,7 +1063,7 @@
       "type": "gun",
       "sortid": 214,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 31
       }
@@ -1073,7 +1073,7 @@
       "type": "mob",
       "sortid": 217,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 32,
         "1": 33
@@ -1084,7 +1084,7 @@
       "type": "mob",
       "sortid": 218,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 34,
         "1": 35
@@ -1095,7 +1095,7 @@
       "type": "mob",
       "sortid": 219,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 36,
         "1": 37
@@ -1146,7 +1146,7 @@
       "type": "procedure",
       "sortid": 223,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "metadata": {
         "dependencies": [
@@ -1214,7 +1214,7 @@
       "type": "procedure",
       "sortid": 229,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "metadata": {
         "dependencies": [
@@ -1266,7 +1266,7 @@
       "type": "mob",
       "sortid": 232,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 42,
         "1": 43
@@ -1345,7 +1345,7 @@
       "type": "item",
       "sortid": 245,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {}
     },
     {
@@ -1437,7 +1437,7 @@
       "type": "gun",
       "sortid": 257,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 55
       }
@@ -1499,7 +1499,7 @@
       "type": "procedure",
       "sortid": 265,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "metadata": {
         "dependencies": [
@@ -1519,7 +1519,7 @@
       "type": "procedure",
       "sortid": 266,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "metadata": {
         "dependencies": []
@@ -1530,7 +1530,7 @@
       "type": "block",
       "sortid": 269,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {}
     },
     {
@@ -1538,7 +1538,7 @@
       "type": "gun",
       "sortid": 271,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 63
       }
@@ -1568,7 +1568,7 @@
       "type": "block",
       "sortid": 276,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {}
     },
     {
@@ -1626,7 +1626,7 @@
       "type": "procedure",
       "sortid": 279,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "metadata": {
         "dependencies": [
@@ -1646,7 +1646,7 @@
       "type": "gun",
       "sortid": 282,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 67
       }
@@ -1656,7 +1656,7 @@
       "type": "mob",
       "sortid": 290,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 70,
         "1": 71
@@ -1667,7 +1667,7 @@
       "type": "code",
       "sortid": 294,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {}
     },
     {
@@ -1675,7 +1675,7 @@
       "type": "mob",
       "sortid": 298,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 83,
         "1": 84
@@ -1686,7 +1686,7 @@
       "type": "command",
       "sortid": 300,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {}
     },
     {
@@ -1694,7 +1694,7 @@
       "type": "mob",
       "sortid": 301,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 86,
         "1": 87
@@ -1705,7 +1705,7 @@
       "type": "mob",
       "sortid": 303,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 88,
         "1": 89
@@ -1716,7 +1716,7 @@
       "type": "mob",
       "sortid": 304,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 90,
         "1": 91
@@ -1727,7 +1727,7 @@
       "type": "procedure",
       "sortid": 307,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "metadata": {
         "dependencies": []
@@ -1738,7 +1738,7 @@
       "type": "mob",
       "sortid": 308,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 94,
         "1": 95
@@ -1749,7 +1749,7 @@
       "type": "mob",
       "sortid": 309,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 96,
         "1": 97
@@ -1770,7 +1770,7 @@
       "type": "code",
       "sortid": 312,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {}
     },
     {
@@ -1778,7 +1778,7 @@
       "type": "mob",
       "sortid": 317,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 103,
         "1": 104
@@ -1789,7 +1789,7 @@
       "type": "mob",
       "sortid": 318,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 105,
         "1": 106
@@ -1800,7 +1800,7 @@
       "type": "procedure",
       "sortid": 320,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "metadata": {
         "dependencies": [
@@ -1820,7 +1820,7 @@
       "type": "mob",
       "sortid": 321,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 107,
         "1": 108
@@ -1831,7 +1831,7 @@
       "type": "procedure",
       "sortid": 322,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "metadata": {
         "dependencies": []
@@ -1842,7 +1842,7 @@
       "type": "mob",
       "sortid": 323,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 111,
         "1": 112
@@ -1853,7 +1853,7 @@
       "type": "gun",
       "sortid": 324,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 113
       }
@@ -1922,7 +1922,7 @@
       "type": "gun",
       "sortid": 331,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 114
       }
@@ -1932,7 +1932,7 @@
       "type": "procedure",
       "sortid": 332,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "metadata": {
         "dependencies": [
@@ -1952,7 +1952,7 @@
       "type": "procedure",
       "sortid": 333,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "metadata": {
         "dependencies": [
@@ -1976,7 +1976,7 @@
       "type": "code",
       "sortid": 334,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {}
     },
     {
@@ -2004,7 +2004,7 @@
       "type": "mob",
       "sortid": 336,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 117,
         "1": 118
@@ -2015,7 +2015,7 @@
       "type": "mob",
       "sortid": 339,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 119,
         "1": 120
@@ -2026,7 +2026,7 @@
       "type": "procedure",
       "sortid": 341,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "metadata": {
         "dependencies": [
@@ -2042,7 +2042,7 @@
       "type": "mob",
       "sortid": 365,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 121,
         "1": 122
@@ -2054,7 +2054,7 @@
       "type": "gun",
       "sortid": 366,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 123
       },
@@ -2065,7 +2065,7 @@
       "type": "gun",
       "sortid": 367,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 124
       },
@@ -2076,7 +2076,7 @@
       "type": "gun",
       "sortid": 368,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 125
       },
@@ -2087,7 +2087,7 @@
       "type": "gun",
       "sortid": 369,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 126
       },
@@ -2098,7 +2098,7 @@
       "type": "gun",
       "sortid": 373,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 129
       },
@@ -2109,7 +2109,7 @@
       "type": "mob",
       "sortid": 375,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 130,
         "1": 131
@@ -2121,7 +2121,7 @@
       "type": "gun",
       "sortid": 376,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 132
       },
@@ -2132,7 +2132,7 @@
       "type": "gun",
       "sortid": 377,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 133
       },
@@ -2143,7 +2143,7 @@
       "type": "gun",
       "sortid": 378,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 134
       },
@@ -2175,7 +2175,7 @@
       "type": "fluid",
       "sortid": 379,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "mud"
     },
@@ -2184,7 +2184,7 @@
       "type": "mob",
       "sortid": 380,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 135,
         "1": 136
@@ -2196,7 +2196,7 @@
       "type": "gun",
       "sortid": 381,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 137
       },
@@ -2241,7 +2241,7 @@
       "type": "procedure",
       "sortid": 387,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "render_view",
       "metadata": {
@@ -2253,7 +2253,7 @@
       "type": "mob",
       "sortid": 388,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 139,
         "1": 140
@@ -2295,7 +2295,7 @@
       "type": "tool",
       "sortid": 392,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "zabuza_sword"
     },
@@ -2304,7 +2304,7 @@
       "type": "code",
       "sortid": 395,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "chakra"
     },
@@ -2313,7 +2313,7 @@
       "type": "mob",
       "sortid": 396,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 141,
         "1": 142
@@ -2325,7 +2325,7 @@
       "type": "overlay",
       "sortid": 397,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "chakra_display"
     },
@@ -2334,7 +2334,7 @@
       "type": "food",
       "sortid": 398,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "military_rations_pill"
     },
@@ -2352,7 +2352,7 @@
       "type": "food",
       "sortid": 401,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "military_rations_pill_gold"
     },
@@ -2396,7 +2396,7 @@
       "type": "mob",
       "sortid": 404,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 145,
         "1": 146
@@ -2408,7 +2408,7 @@
       "type": "mob",
       "sortid": 405,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 147,
         "1": 148
@@ -2420,7 +2420,7 @@
       "type": "gun",
       "sortid": 406,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 149
       },
@@ -2431,7 +2431,7 @@
       "type": "potion",
       "sortid": 407,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "reach"
     },
@@ -2440,7 +2440,7 @@
       "type": "mob",
       "sortid": 408,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 150,
         "1": 151
@@ -2469,7 +2469,7 @@
       "type": "mob",
       "sortid": 410,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 152,
         "1": 153
@@ -2481,7 +2481,7 @@
       "type": "mob",
       "sortid": 411,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 154,
         "1": 155
@@ -2493,7 +2493,7 @@
       "type": "mob",
       "sortid": 412,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 156,
         "1": 157
@@ -2505,7 +2505,7 @@
       "type": "block",
       "sortid": 413,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "water_still"
     },
@@ -2557,7 +2557,7 @@
       "type": "mob",
       "sortid": 418,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 161,
         "1": 162
@@ -2587,7 +2587,7 @@
       "type": "gun",
       "sortid": 425,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 163
       },
@@ -2665,7 +2665,7 @@
       "type": "mob",
       "sortid": 435,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 164,
         "1": 165
@@ -2707,7 +2707,7 @@
       "type": "mob",
       "sortid": 438,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 166,
         "1": 167
@@ -2719,7 +2719,7 @@
       "type": "mob",
       "sortid": 439,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 168,
         "1": 169
@@ -2731,7 +2731,7 @@
       "type": "mob",
       "sortid": 440,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 170,
         "1": 171
@@ -2743,7 +2743,7 @@
       "type": "gun",
       "sortid": 441,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 172
       },
@@ -2754,7 +2754,7 @@
       "type": "mob",
       "sortid": 442,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 175,
         "1": 176
@@ -2766,7 +2766,7 @@
       "type": "mob",
       "sortid": 443,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 177,
         "1": 178
@@ -2778,7 +2778,7 @@
       "type": "mob",
       "sortid": 444,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 179,
         "1": 180
@@ -2790,7 +2790,7 @@
       "type": "mob",
       "sortid": 446,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 181,
         "1": 182
@@ -2802,7 +2802,7 @@
       "type": "item",
       "sortid": 447,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "dojutsu"
     },
@@ -2811,7 +2811,7 @@
       "type": "mob",
       "sortid": 449,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 185,
         "1": 186
@@ -2823,7 +2823,7 @@
       "type": "mob",
       "sortid": 450,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 187,
         "1": 188
@@ -2835,7 +2835,7 @@
       "type": "mob",
       "sortid": 451,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 189,
         "1": 190
@@ -2847,7 +2847,7 @@
       "type": "mob",
       "sortid": 452,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 191,
         "1": 192
@@ -2859,7 +2859,7 @@
       "type": "mob",
       "sortid": 453,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 193,
         "1": 194
@@ -2871,7 +2871,7 @@
       "type": "mob",
       "sortid": 454,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 195,
         "1": 196
@@ -2883,7 +2883,7 @@
       "type": "tool",
       "sortid": 455,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "samehada"
     },
@@ -2892,7 +2892,7 @@
       "type": "mob",
       "sortid": 456,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 197,
         "1": 198
@@ -2942,7 +2942,7 @@
       "type": "gui",
       "sortid": 466,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 16
       },
@@ -2962,7 +2962,7 @@
       "type": "gui",
       "sortid": 468,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 17
       },
@@ -2982,7 +2982,7 @@
       "type": "gui",
       "sortid": 470,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 18
       },
@@ -3002,7 +3002,7 @@
       "type": "gui",
       "sortid": 472,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 19
       },
@@ -3022,7 +3022,7 @@
       "type": "gui",
       "sortid": 474,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 20
       },
@@ -3042,7 +3042,7 @@
       "type": "gui",
       "sortid": 476,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 21
       },
@@ -3062,7 +3062,7 @@
       "type": "gui",
       "sortid": 478,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 22
       },
@@ -3082,7 +3082,7 @@
       "type": "gui",
       "sortid": 480,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 23
       },
@@ -3102,7 +3102,7 @@
       "type": "gui",
       "sortid": 482,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 24
       },
@@ -3122,7 +3122,7 @@
       "type": "gui",
       "sortid": 484,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 25
       },
@@ -3142,7 +3142,7 @@
       "type": "gui",
       "sortid": 486,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 26
       },
@@ -3162,7 +3162,7 @@
       "type": "gui",
       "sortid": 488,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 27
       },
@@ -3182,7 +3182,7 @@
       "type": "gui",
       "sortid": 490,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 28
       },
@@ -3202,7 +3202,7 @@
       "type": "gui",
       "sortid": 492,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 29
       },
@@ -3222,7 +3222,7 @@
       "type": "gui",
       "sortid": 494,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 30
       },
@@ -3242,7 +3242,7 @@
       "type": "gui",
       "sortid": 496,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 31
       },
@@ -3262,7 +3262,7 @@
       "type": "gui",
       "sortid": 498,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 32
       },
@@ -3282,7 +3282,7 @@
       "type": "gui",
       "sortid": 500,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 33
       },
@@ -3302,7 +3302,7 @@
       "type": "gui",
       "sortid": 502,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 34
       },
@@ -3313,7 +3313,7 @@
       "type": "gui",
       "sortid": 503,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 35
       },
@@ -3333,7 +3333,7 @@
       "type": "gui",
       "sortid": 505,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 36
       },
@@ -3353,7 +3353,7 @@
       "type": "gui",
       "sortid": 507,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 37
       },
@@ -3373,7 +3373,7 @@
       "type": "gui",
       "sortid": 509,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 38
       },
@@ -3393,7 +3393,7 @@
       "type": "gui",
       "sortid": 511,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 39
       },
@@ -3422,7 +3422,7 @@
       "type": "loottable",
       "sortid": 514,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "jutsu_loot_table"
     },
@@ -3440,7 +3440,7 @@
       "type": "mob",
       "sortid": 516,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 199,
         "1": 200
@@ -3452,7 +3452,7 @@
       "type": "armor",
       "sortid": 517,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "gourd",
       "metadata": {
@@ -3467,7 +3467,7 @@
       "type": "gun",
       "sortid": 518,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 201
       },
@@ -3478,7 +3478,7 @@
       "type": "mob",
       "sortid": 519,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 202,
         "1": 203
@@ -3490,7 +3490,7 @@
       "type": "mob",
       "sortid": 520,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 204,
         "1": 205
@@ -3502,7 +3502,7 @@
       "type": "mob",
       "sortid": 521,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 206,
         "1": 207
@@ -3514,7 +3514,7 @@
       "type": "mob",
       "sortid": 522,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 208,
         "1": 209
@@ -3526,7 +3526,7 @@
       "type": "gun",
       "sortid": 523,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 210
       },
@@ -3537,7 +3537,7 @@
       "type": "gui",
       "sortid": 524,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 40
       },
@@ -3557,7 +3557,7 @@
       "type": "mob",
       "sortid": 526,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 211,
         "1": 212
@@ -3569,7 +3569,7 @@
       "type": "mob",
       "sortid": 527,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 213,
         "1": 214
@@ -3581,7 +3581,7 @@
       "type": "mob",
       "sortid": 528,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 215,
         "1": 216
@@ -3593,7 +3593,7 @@
       "type": "potion",
       "sortid": 529,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "chakra_enhanced_strength"
     },
@@ -3602,7 +3602,7 @@
       "type": "gun",
       "sortid": 531,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 219
       },
@@ -3613,7 +3613,7 @@
       "type": "code",
       "sortid": 532,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "entity_tracker"
     },
@@ -3622,7 +3622,7 @@
       "type": "mob",
       "sortid": 533,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 220,
         "1": 221
@@ -3634,7 +3634,7 @@
       "type": "mob",
       "sortid": 534,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 222,
         "1": 223
@@ -3646,7 +3646,7 @@
       "type": "mob",
       "sortid": 535,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 224,
         "1": 225
@@ -3658,7 +3658,7 @@
       "type": "procedure",
       "sortid": 536,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "sync",
       "metadata": {
@@ -3670,7 +3670,7 @@
       "type": "overlay",
       "sortid": 537,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "debug_stats"
     },
@@ -3679,7 +3679,7 @@
       "type": "mob",
       "sortid": 538,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 226,
         "1": 227
@@ -3718,7 +3718,7 @@
       "type": "mob",
       "sortid": 542,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 228,
         "1": 229
@@ -3730,7 +3730,7 @@
       "type": "gun",
       "sortid": 543,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 230
       },
@@ -3741,7 +3741,7 @@
       "type": "mob",
       "sortid": 544,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 231,
         "1": 232
@@ -3753,7 +3753,7 @@
       "type": "mob",
       "sortid": 545,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 233,
         "1": 234
@@ -3765,7 +3765,7 @@
       "type": "mob",
       "sortid": 546,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 235,
         "1": 236
@@ -3777,7 +3777,7 @@
       "type": "mob",
       "sortid": 547,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 237,
         "1": 238
@@ -3828,7 +3828,7 @@
       "type": "gui",
       "sortid": 553,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 41
       },
@@ -3856,7 +3856,7 @@
       "type": "item",
       "sortid": 555,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "team_scroll"
     },
@@ -3930,7 +3930,7 @@
       "type": "mob",
       "sortid": 560,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 239,
         "1": 240
@@ -3942,7 +3942,7 @@
       "type": "gui",
       "sortid": 561,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 42
       },
@@ -3962,7 +3962,7 @@
       "type": "gui",
       "sortid": 562,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 43
       },
@@ -3982,7 +3982,7 @@
       "type": "gui",
       "sortid": 564,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 44
       },
@@ -4002,7 +4002,7 @@
       "type": "gui",
       "sortid": 566,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 45
       },
@@ -4022,7 +4022,7 @@
       "type": "mob",
       "sortid": 568,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 241,
         "1": 242
@@ -4034,7 +4034,7 @@
       "type": "gui",
       "sortid": 569,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 48
       },
@@ -4054,7 +4054,7 @@
       "type": "mob",
       "sortid": 571,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 243,
         "1": 244
@@ -4066,7 +4066,7 @@
       "type": "gui",
       "sortid": 572,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 49
       },
@@ -4086,7 +4086,7 @@
       "type": "mob",
       "sortid": 574,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 245,
         "1": 246
@@ -4098,7 +4098,7 @@
       "type": "mob",
       "sortid": 576,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 249,
         "1": 250
@@ -4110,7 +4110,7 @@
       "type": "armor",
       "sortid": 577,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "biju_cloak",
       "metadata": {
@@ -4146,7 +4146,7 @@
       "type": "command",
       "sortid": 578,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "add_ninja_xp"
     },
@@ -4155,7 +4155,7 @@
       "type": "mob",
       "sortid": 579,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 251,
         "1": 252
@@ -4167,7 +4167,7 @@
       "type": "mob",
       "sortid": 580,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 253,
         "1": 254
@@ -4179,7 +4179,7 @@
       "type": "mob",
       "sortid": 581,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 255,
         "1": 256
@@ -4191,7 +4191,7 @@
       "type": "mob",
       "sortid": 582,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 257,
         "1": 258
@@ -4203,7 +4203,7 @@
       "type": "mob",
       "sortid": 583,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 259,
         "1": 260
@@ -4215,7 +4215,7 @@
       "type": "mob",
       "sortid": 584,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 261,
         "1": 262
@@ -4227,7 +4227,7 @@
       "type": "mob",
       "sortid": 586,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 263,
         "1": 264
@@ -4239,7 +4239,7 @@
       "type": "mob",
       "sortid": 587,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 265,
         "1": 266
@@ -4251,7 +4251,7 @@
       "type": "mob",
       "sortid": 588,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 267,
         "1": 268
@@ -4263,7 +4263,7 @@
       "type": "gun",
       "sortid": 589,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 269
       },
@@ -4292,7 +4292,7 @@
       "type": "gun",
       "sortid": 592,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 271
       },
@@ -4303,7 +4303,7 @@
       "type": "mob",
       "sortid": 593,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 272,
         "1": 273
@@ -4315,7 +4315,7 @@
       "type": "mob",
       "sortid": 594,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 274,
         "1": 275
@@ -4327,7 +4327,7 @@
       "type": "mob",
       "sortid": 595,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 276,
         "1": 277
@@ -4348,7 +4348,7 @@
       "type": "gun",
       "sortid": 597,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 278
       },
@@ -4359,7 +4359,7 @@
       "type": "mob",
       "sortid": 598,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 279,
         "1": 280
@@ -4380,7 +4380,7 @@
       "type": "gun",
       "sortid": 600,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 281
       },
@@ -4434,7 +4434,7 @@
       "type": "mob",
       "sortid": 603,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 282,
         "1": 283
@@ -4446,7 +4446,7 @@
       "type": "mob",
       "sortid": 604,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 284,
         "1": 285
@@ -4458,7 +4458,7 @@
       "type": "armor",
       "sortid": 605,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "steam_armor",
       "metadata": {
@@ -4473,7 +4473,7 @@
       "type": "mob",
       "sortid": 606,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 286,
         "1": 287
@@ -4485,7 +4485,7 @@
       "type": "mob",
       "sortid": 607,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 288,
         "1": 289
@@ -4497,7 +4497,7 @@
       "type": "code",
       "sortid": 608,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "player_render"
     },
@@ -4506,7 +4506,7 @@
       "type": "tool",
       "sortid": 609,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "shibuki_sword"
     },
@@ -4515,7 +4515,7 @@
       "type": "code",
       "sortid": 611,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "player_input"
     },
@@ -4524,7 +4524,7 @@
       "type": "gun",
       "sortid": 613,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 290
       },
@@ -4535,7 +4535,7 @@
       "type": "gun",
       "sortid": 614,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 291
       },
@@ -4546,7 +4546,7 @@
       "type": "gun",
       "sortid": 615,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 292
       },
@@ -4575,7 +4575,7 @@
       "type": "mob",
       "sortid": 618,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 293,
         "1": 294
@@ -4725,7 +4725,7 @@
       "type": "mob",
       "sortid": 631,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 315,
         "1": 316
@@ -4737,7 +4737,7 @@
       "type": "gun",
       "sortid": 632,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 317
       },
@@ -4775,7 +4775,7 @@
       "type": "armor",
       "sortid": 636,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "bone_armor",
       "metadata": {
@@ -4790,7 +4790,7 @@
       "type": "armor",
       "sortid": 637,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "ninja_armor_kiri",
       "metadata": {
@@ -4805,7 +4805,7 @@
       "type": "armor",
       "sortid": 638,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "ninja_armor_iwa",
       "metadata": {
@@ -4820,7 +4820,7 @@
       "type": "armor",
       "sortid": 639,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "ninja_armor_suna",
       "metadata": {
@@ -4835,7 +4835,7 @@
       "type": "armor",
       "sortid": 640,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "ninja_armor_kumo",
       "metadata": {
@@ -4958,7 +4958,7 @@
       "type": "gun",
       "sortid": 659,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 318
       },
@@ -4969,7 +4969,7 @@
       "type": "tool",
       "sortid": 661,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "bone_sword"
     },
@@ -4978,7 +4978,7 @@
       "type": "armor",
       "sortid": 662,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "ninja_armor_anbu",
       "metadata": {
@@ -5011,7 +5011,7 @@
       "type": "mob",
       "sortid": 667,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 319,
         "1": 320
@@ -5032,7 +5032,7 @@
       "type": "gui",
       "sortid": 669,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 50
       },
@@ -5052,7 +5052,7 @@
       "type": "gui",
       "sortid": 671,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 51
       },
@@ -5072,7 +5072,7 @@
       "type": "mob",
       "sortid": 673,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 321,
         "1": 322
@@ -5084,7 +5084,7 @@
       "type": "mob",
       "sortid": 674,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 323,
         "1": 324
@@ -5096,7 +5096,7 @@
       "type": "tool",
       "sortid": 675,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "kabutowari_hammer"
     },
@@ -5105,7 +5105,7 @@
       "type": "tool",
       "sortid": 676,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "kabutowari_axe"
     },
@@ -5114,7 +5114,7 @@
       "type": "item",
       "sortid": 677,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "kabutowari"
     },
@@ -5123,7 +5123,7 @@
       "type": "mob",
       "sortid": 678,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 325,
         "1": 326
@@ -5135,7 +5135,7 @@
       "type": "mob",
       "sortid": 679,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 327,
         "1": 328
@@ -5158,7 +5158,7 @@
       "type": "procedure",
       "sortid": 681,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "smoke_bomb_bullet_hits_block",
       "metadata": {
@@ -5196,7 +5196,7 @@
       "type": "mob",
       "sortid": 683,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 330,
         "1": 331
@@ -5208,7 +5208,7 @@
       "type": "armor",
       "sortid": 685,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "sage_mode_armor",
       "metadata": {
@@ -5223,7 +5223,7 @@
       "type": "mob",
       "sortid": 686,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 333,
         "1": 334
@@ -5235,7 +5235,7 @@
       "type": "mob",
       "sortid": 688,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 335,
         "1": 336
@@ -5247,7 +5247,7 @@
       "type": "mob",
       "sortid": 689,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 337,
         "1": 338
@@ -5259,7 +5259,7 @@
       "type": "gui",
       "sortid": 690,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 53
       },
@@ -5279,7 +5279,7 @@
       "type": "armor",
       "sortid": 692,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "tenseigan",
       "metadata": {
@@ -5340,7 +5340,7 @@
       "type": "gun",
       "sortid": 695,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 339
       },
@@ -5351,7 +5351,7 @@
       "type": "mob",
       "sortid": 696,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 340,
         "1": 341
@@ -5363,7 +5363,7 @@
       "type": "mob",
       "sortid": 697,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 342,
         "1": 343
@@ -5375,7 +5375,7 @@
       "type": "mob",
       "sortid": 698,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 344,
         "1": 345
@@ -5404,7 +5404,7 @@
       "type": "tool",
       "sortid": 700,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "chokuto"
     },
@@ -5422,7 +5422,7 @@
       "type": "gun",
       "sortid": 702,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 346
       },
@@ -5433,7 +5433,7 @@
       "type": "gun",
       "sortid": 703,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 347
       },
@@ -5444,7 +5444,7 @@
       "type": "mob",
       "sortid": 704,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 348,
         "1": 349
@@ -5456,7 +5456,7 @@
       "type": "mob",
       "sortid": 705,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 350,
         "1": 351
@@ -5509,7 +5509,7 @@
       "type": "mob",
       "sortid": 709,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 353,
         "1": 354
@@ -5521,7 +5521,7 @@
       "type": "gun",
       "sortid": 710,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 355
       },
@@ -5532,7 +5532,7 @@
       "type": "item",
       "sortid": 711,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "on_body"
     },
@@ -5588,7 +5588,7 @@
       "type": "mob",
       "sortid": 714,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 356,
         "1": 357
@@ -5625,7 +5625,7 @@
       "type": "item",
       "sortid": 718,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "summoning_contract"
     },
@@ -5634,7 +5634,7 @@
       "type": "mob",
       "sortid": 719,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 360,
         "1": 361
@@ -5646,7 +5646,7 @@
       "type": "mob",
       "sortid": 720,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 362,
         "1": 363
@@ -5742,7 +5742,7 @@
       "type": "procedure",
       "sortid": 725,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "light_source_set_block",
       "metadata": {
@@ -5771,7 +5771,7 @@
       "type": "mob",
       "sortid": 726,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 364,
         "1": 365
@@ -5804,7 +5804,7 @@
       "type": "mob",
       "sortid": 728,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 366,
         "1": 367
@@ -5833,7 +5833,7 @@
       "type": "gun",
       "sortid": 731,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 368
       },
@@ -5844,7 +5844,7 @@
       "type": "gui",
       "sortid": 732,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 54
       },
@@ -5864,7 +5864,7 @@
       "type": "mob",
       "sortid": 734,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 373,
         "1": 374
@@ -5876,7 +5876,7 @@
       "type": "tool",
       "sortid": 735,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "bone_drill"
     },
@@ -5885,7 +5885,7 @@
       "type": "mob",
       "sortid": 736,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 375,
         "1": 376
@@ -5897,7 +5897,7 @@
       "type": "mob",
       "sortid": 737,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 377,
         "1": 378
@@ -5909,7 +5909,7 @@
       "type": "mob",
       "sortid": 738,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 379,
         "1": 380
@@ -5921,7 +5921,7 @@
       "type": "mob",
       "sortid": 739,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 381,
         "1": 382
@@ -5933,7 +5933,7 @@
       "type": "armor",
       "sortid": 740,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "akatsuki_robe",
       "metadata": {
@@ -5948,7 +5948,7 @@
       "type": "armor",
       "sortid": 741,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "ninja_armor_konoha",
       "metadata": {
@@ -5963,7 +5963,7 @@
       "type": "armor",
       "sortid": 742,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "ninja_armor_jumpsuit",
       "metadata": {
@@ -5987,7 +5987,7 @@
       "type": "armor",
       "sortid": 744,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "ninja_armor_fishnets",
       "metadata": {
@@ -6011,7 +6011,7 @@
       "type": "item",
       "sortid": 746,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "ninja_armor"
     },
@@ -6020,7 +6020,7 @@
       "type": "tool",
       "sortid": 747,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "anbu_sword"
     },
@@ -6038,7 +6038,7 @@
       "type": "armor",
       "sortid": 749,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "ninja_armor_ame",
       "metadata": {
@@ -6053,7 +6053,7 @@
       "type": "gui",
       "sortid": 750,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 55
       },
@@ -6118,7 +6118,7 @@
       "type": "armor",
       "sortid": 756,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "ninja_armor_war_1",
       "metadata": {
@@ -6133,7 +6133,7 @@
       "type": "armor",
       "sortid": 757,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "samurai_armor",
       "metadata": {
@@ -6184,7 +6184,7 @@
       "type": "mob",
       "sortid": 762,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 383,
         "1": 384
@@ -6196,7 +6196,7 @@
       "type": "gui",
       "sortid": 763,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 56
       },
@@ -6216,7 +6216,7 @@
       "type": "mob",
       "sortid": 765,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 385,
         "1": 386
@@ -6228,7 +6228,7 @@
       "type": "gun",
       "sortid": 766,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 387
       },
@@ -6239,7 +6239,7 @@
       "type": "gun",
       "sortid": 767,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 388
       },
@@ -6250,7 +6250,7 @@
       "type": "mob",
       "sortid": 768,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 389,
         "1": 390
@@ -6271,7 +6271,7 @@
       "type": "gun",
       "sortid": 769,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 389
       },
@@ -6282,7 +6282,7 @@
       "type": "gun",
       "sortid": 770,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 391
       },
@@ -6333,7 +6333,7 @@
       "type": "gun",
       "sortid": 778,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 398
       },
@@ -6344,7 +6344,7 @@
       "type": "gun",
       "sortid": 779,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 399
       },
@@ -6355,7 +6355,7 @@
       "type": "tool",
       "sortid": 780,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "cleaver"
     },
@@ -6472,7 +6472,7 @@
       "type": "gun",
       "sortid": 789,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 401
       },
@@ -6483,7 +6483,7 @@
       "type": "gun",
       "sortid": 790,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 402
       },
@@ -6503,7 +6503,7 @@
       "type": "tool",
       "sortid": 792,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "claw"
     },
@@ -6543,7 +6543,7 @@
       "type": "gun",
       "sortid": 796,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 406
       },
@@ -6554,7 +6554,7 @@
       "type": "gui",
       "sortid": 797,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 58
       },
@@ -6574,7 +6574,7 @@
       "type": "mob",
       "sortid": 799,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 407,
         "1": 408
@@ -6595,7 +6595,7 @@
       "type": "mob",
       "sortid": 801,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 409,
         "1": 410
@@ -6607,7 +6607,7 @@
       "type": "gui",
       "sortid": 802,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 59
       },
@@ -6645,7 +6645,7 @@
       "type": "gui",
       "sortid": 806,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 60
       },
@@ -6665,7 +6665,7 @@
       "type": "mob",
       "sortid": 808,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 411,
         "1": 412
@@ -6677,7 +6677,7 @@
       "type": "armor",
       "sortid": 809,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "mask_anbu_1",
       "metadata": {
@@ -6692,7 +6692,7 @@
       "type": "armor",
       "sortid": 810,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "mask_anbu_2",
       "metadata": {
@@ -6707,7 +6707,7 @@
       "type": "armor",
       "sortid": 811,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "mask_anbu_3",
       "metadata": {
@@ -6722,7 +6722,7 @@
       "type": "armor",
       "sortid": 812,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "mask_anbu_4",
       "metadata": {
@@ -6737,7 +6737,7 @@
       "type": "armor",
       "sortid": 813,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "mask_obito_1",
       "metadata": {
@@ -6752,7 +6752,7 @@
       "type": "gun",
       "sortid": 815,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {
         "0": 414
       },
@@ -7713,7 +7713,7 @@
       "entity.susanooclothed.name": "Susanoo",
       "item.raiton.name": "Lightning Release",
       "entity.lightning_arc.name": "Lightning Arc",
-      "advancements.eternalmangekyoachieved.descr": "The Eternal Mangeky¨­ Sharingan is proof an Uchiha has continued to push forward despite experiencing great losses.",
+      "advancements.eternalmangekyoachieved.descr": "The Eternal MangekyÂ¨Â­ Sharingan is proof an Uchiha has continued to push forward despite experiencing great losses.",
       "advancements.bakuton_acquired.title": "Explosion Release Acquired",
       "advancements.ranton_acquired.title": "Storm Release Acquired",
       "entity.susanoowinged.name": "Susanoo",
@@ -7730,7 +7730,7 @@
       "item.mangekyosharinganobitohelmet.name": "Mangekyo Sharingan - Kamui",
       "advancements.sharinganopened.title": "Sharingan activated",
       "tipped_arrow.effect.chakra_regeneration": "Arrow of Chakra Regeneration",
-      "advancements.kekkei_tota_awakened.descr": "Kekkei T¨­ta is an advanced branch of jutsu that is more advanced than kekkei genkai. The only known example is Dust Release, a combination of three different nature transformations ¡ª earth, wind, and fire.",
+      "advancements.kekkei_tota_awakened.descr": "Kekkei TÂ¨Â­ta is an advanced branch of jutsu that is more advanced than kekkei genkai. The only known example is Dust Release, a combination of three different nature transformations Â¡Âª earth, wind, and fire.",
       "entity.water_prison.name": "Water Prison jutsu",
       "item.inton.name": "Yin Release",
       "subtitles.lasercircus": "",
@@ -7954,7 +7954,7 @@
       "tooltip.jinton.musthave": "Must have Doton, Futon \u0026 Katon",
       "subtitles.amaterasu2": "",
       "item.shikotsumyaku.name": "Skeletal Control",
-      "advancements.byakuganopened.descr": "Byakugan is regarded as one of the \"Three Great D¨­jutsu\", the others being the Sharingan and the Rinnegan.",
+      "advancements.byakuganopened.descr": "Byakugan is regarded as one of the \"Three Great DÂ¨Â­jutsu\", the others being the Sharingan and the Rinnegan.",
       "subtitles.dingding": "",
       "chattext.specialevent.villagesiege": "Event alert: A siege is coming!",
       "entity.false_darkness.name": "False Darkness",
